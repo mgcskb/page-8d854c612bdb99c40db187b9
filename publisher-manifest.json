@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3176069b574f883be5c8aa77",
+  "owner": "mgcskb",
+  "repo": "page-8d854c612bdb99c40db187b9",
+  "title": "火箭TNT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8d854c612bdb99c40db187b9",
+      "a": "火箭TNT",
+      "b": "稳定全球clash加速器",
+      "entity": "火箭TNT",
+      "brand": "火箭TNT",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "daa547af06dec67d72029c48185faf8d3091adc2bd82fa92ccc83b6cae083e9c",
+      "content": {
+        "primary_entity": "火箭TNT",
+        "keyword1": "火箭TNT",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，为日常上网、流媒体与游戏场景提供多节点连接选择。套餐按流量、设备数和线路类型分层，基础版适合轻量使用，旗舰版侧重流媒体与游戏优化，团队版面向多人协作。导入订阅后即可按客户端文档完成配置，节点池会随版本更新调整。",
+          "AI_HERO_SUBTITLE": "火箭TNT多设备订阅加速",
+          "AI_HERO_INTRO": "火箭TNT面向需要跨区域访问的用户，提供基础版、旗舰版和团队版三档订阅。每档套餐在流量、设备数量和节点类型上有差异，可按日常用量与设备规模挑选，再依据所用系统导入订阅完成配置。",
+          "AI_VISUAL_TITLE": "火箭TNT订阅通道",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "基础版每月100GB起",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC游戏加速",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从用量、设备数和线路类型三个角度比较套餐，再结合客户端支持情况做出决定。",
+          "AI_FEATURE_TITLE_1": "按流量与设备挑套餐",
+          "AI_FEATURE_TEXT_1": "基础版100GB支持3台设备，旗舰版300GB支持5台，团队版1000GB支持20台，按日常用量选择即可。",
+          "AI_FEATURE_TITLE_2": "按使用场景选线路",
+          "AI_FEATURE_TEXT_2": "基础版提供普通线路节点池，旗舰版增加IPLC专线并优化游戏延迟，团队版可使用VIP高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按周期看订阅成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版150元/年、旗舰版350元/年、团队版850元/年，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用常见客户端，安装后导入订阅链接即可，具体功能以客户端当前版本为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量、节点类型和支持服务上各有侧重，可结合预算与使用人数挑选。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先确定套餐，再确认设备与流量需求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和是否需要流媒体或游戏优化，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配条件",
+          "AI_STEP_TEXT_2": "检查设备系统与客户端版本是否支持所选订阅类型，并核对套餐包含的设备数量上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按所用客户端的文档指引完成导入，等待节点列表加载即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_CLOSING_TEXT": "根据日常用量和设备数选定套餐，按客户端文档导入订阅，开始使用火箭TNT。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览与轻量流媒体，每月 100GB 流量和 3 台设备在线；旗舰版每月 300GB、5 台设备，适合多设备家庭和游戏用户；团队版每月 1000GB、20 台设备，适合小型团队协作。",
+          "AI_FAQ_ANSWER_2": "在客户端中新建订阅配置，粘贴服务方提供的订阅链接，更新节点列表后选择延迟较低的节点连接即可。不同客户端导入路径略有差异，可参照对应客户端文档操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。设备数量指同一时间保持连接的终端数量，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供按年付选项，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可降低月度成本，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，针对游戏加速场景做路由优化，适合对延迟敏感的游戏、直播和远程协作场景；基础版使用普通线路节点池，满足常规网页浏览与视频播放。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅配置如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "IPLC 专线适合哪些场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "r7u0z0z.cn",
+    "host": "r7u0z0z.cn"
+  },
+  "file_hashes": {
+    "index.html": "27defddfa1f3b8b148821974587dec4e90f3f50799c9e254980398f590821db2",
+    "sitemap.xml": "e44e04937285fd3dee2feea1c2772ad01c2a509b727af28760553b9eb478c847",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ce392d47e80f6798a6a44f3c71bd37faad3bb90ff2c796240806138b9b2f3790",
+    "robots.txt": "5bc1779e1d1ddd718b5cb4103f3aa7145a9bff2ee687dace3e42bb26f4807a12",
+    "052725d37774dd07db75adbfe243259f.txt": "1f6cc6c4d94e268c738c860b7c7fb90135889cf2c8c753d30e4c7675d45ed764"
+  },
+  "revision": "5face3f3b8ccbe74ea347aae354b8f3fb0615457e0012fba213001ac4ca86464"
+}
